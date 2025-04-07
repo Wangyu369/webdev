@@ -6,8 +6,8 @@ import { Button } from '@/components/ui/button';
 import { Link } from 'react-router-dom';
 
 import sale from '../assets/banner1.png'
-import essentials from '../assets/banner2.png'
-import newproducts from '../assets/banner3.png'
+import newproducts from '../assets/banner2.png'
+import essentials from '../assets/banner3.png'
 
 type BannerSlide = {
   id: number;
